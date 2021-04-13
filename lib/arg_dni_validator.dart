@@ -8,4 +8,5 @@ class DniValidator {
       return true;
     }
     return false;
-  }}
+  }
+}
