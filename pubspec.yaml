@@ -1,7 +1,7 @@
 name: arg_dni_validator
 description: A new Flutter package to validate a DNI of Argentina.
 version: 0.0.1
-repository:
+repository: https://github.com/Gonzaa25/arg_dni_validator
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
