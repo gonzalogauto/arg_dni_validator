@@ -27,7 +27,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  DniValidator validator = DniValidator();
+  ArgValidator validator = ArgValidator();
   final _formKey = GlobalKey<FormState>();
 
   @override
