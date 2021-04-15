@@ -1,6 +1,9 @@
+## [0.0.5]
+
+* update the example of this package.
 ## [0.0.4]
 
-* **Breaking change**: `DniValidator()` replaced with `ArgValidator()`.
+* **Breaking change**: `DniValidator` replaced with `ArgValidator`.
 * adding CUIT validation.
   
 ## [0.0.3]

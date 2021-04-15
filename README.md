@@ -2,7 +2,7 @@
 
 [![pub package](https://img.shields.io/pub/v/arg_dni_validator.svg)](https://pub.dev/packages/arg_dni_validator)
 
-A new Flutter package to validate a DNI of Argentina.
+A new Flutter package to validate a DNI and CUIT of Argentina.
 
 ## Getting Started
 
